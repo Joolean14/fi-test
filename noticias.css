@@ -1,0 +1,23 @@
+a {
+    color: #56A632;
+}
+
+.hover:hover {
+    color: #56A632;
+    border: #56A632;
+}
+
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4%; 
+    width: 50%;  
+}
+
+p {
+    font-size: 3vw;
+}
+
